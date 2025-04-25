@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn==0.31.0
+python-multipart==0.0.12
+groq==0.22.0
+python-dotenv==1.0.1
+PyPDF2==3.0.1
+pydantic==2.9.2
+requests==2.31.0
+python-jose[cryptography]==3.3.0
+gTTS==2.5.1  # Google Text-to-Speech
+pydub==0.25.1  # Audio processing
+edge-tts
